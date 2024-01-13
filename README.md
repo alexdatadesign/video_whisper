@@ -8,5 +8,9 @@ The set of steps implemented:
 - text topic modeling with the BERTopic and HDBSCAN clustering
 - video scene segmentation with PySceneDetect
 
-  
 
+Use Google Colab Notebook with GPU. 
+
+Video timeline visualization with website text:
+
+![video timeline](/docs/timeline.png)
