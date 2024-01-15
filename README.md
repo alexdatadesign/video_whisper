@@ -16,3 +16,9 @@ Use Google Colab Notebook with GPU.
 Video timeline visualization with website text:
 
 ![video timeline](/docs/timeline.png)
+
+
+Workflow diagram:
+
+![workflow diagram](/docs/video_segmentation_diagram.svg)
+
