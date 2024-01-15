@@ -18,7 +18,11 @@ Video timeline visualization with website text:
 ![video timeline](/docs/timeline.png)
 
 
-Workflow diagram:
+***
 
-![workflow diagram](/docs/video_segmentation_diagram.svg)
+## Workflow diagram:
+
+<p align="center">
+  <img width="800" height="1200" src="/docs/video_segmentation_diagram.svg">
+</p>
 
