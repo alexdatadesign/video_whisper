@@ -23,6 +23,6 @@ Video timeline visualization with website text:
 ## Workflow diagram:
 
 <p align="center">
-  <img width="800" height="1200" src="/docs/video_segmentation_diagram.svg">
+  <img src="/docs/video_segmentation_diagram.svg">
 </p>
 
