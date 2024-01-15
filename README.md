@@ -2,6 +2,8 @@
 
 ## An experimental set of colab notebooks for video semantic segmentation.
 
+[Colab Notebook Link](https://colab.research.google.com/drive/1ARD4NwI_wZ34YnqqYXx7owptbn4JJGg7?usp=sharing) 
+
 The set of steps implemented:
 
 - text exctraction (transcription) from the youtube video with the latest ASR model: 'openai/whisper-large-v3'
